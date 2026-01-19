@@ -7,7 +7,7 @@ WorkTool是一个依附于企微/微信来运行的无人值守群管理机器�
 ### 本程序分为安卓端APP和任务调度平台
 
 * 安卓端APP需要您**自己提供一台手机**（需可运行企微/微信，手机型号和系统版本不限，本软件兼容99%的安卓手机）。
-    如果您是开发者可以自行编译源码运行，进行测试和学习；如果没有研发能力，可使用打包版本[WorkTool APP安装包：点击下载（2025-11-01更新）](https://cdn.asrtts.cn/uploads/worktool/apk/worktool-latest.apk)（兼容4.1.8~4.1.36, 5.0.0）
+    如果您是开发者可以自行编译源码运行，进行测试和学习；如果没有研发能力，可使用打包版本[WorkTool APP安装包：点击下载（2026-01-08更新）](https://cdn.asrtts.cn/uploads/worktool/apk/worktool-latest.apk)（兼容4.1.8-4.1.36, 5.0.0-5.0.3）
 
 风险提示：
 
@@ -33,8 +33,8 @@ Apache License, Version 2.0
 #  联系方式
 - ⭐️ 合作申请: https://admin.worktool.ymdyes.cn/form/consult
 - 💻 Email: feedback@yameida.cc
-- 🤗 QQ群: 技术交流、问题反馈 872359043
-<img src="https://github.com/user-attachments/assets/23b58643-d2f7-4512-ac30-fd3d4b2a8940"  height="200" width="200">
+- 🤗 QQ群: 技术交流、问题反馈 563062103
+<img src="https://github.com/user-attachments/assets/1a41906e-0535-4581-a19b-f2ecaf69b3b4"  height="200" width="200">
 
 # 版本更新（开源版）
 
